@@ -3,3 +3,4 @@ logs/
 database/
 comms/
 **/*.bkp
+config/printer-*.cfg
