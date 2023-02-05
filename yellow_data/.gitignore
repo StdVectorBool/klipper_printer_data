@@ -4,3 +4,4 @@ database/
 comms/
 **/*.bkp
 config/printer-*.cfg
+gcodes/
