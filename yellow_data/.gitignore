@@ -4,4 +4,5 @@ database/
 comms/
 **/*.bkp
 config/printer-*.cfg
+config/*.backup
 gcodes/
