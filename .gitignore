@@ -1,8 +1,8 @@
-backup/
-logs/
-database/
-comms/
+**/backup/
+**/logs/
+**/database/
+**/comms/
 **/*.bkp
-config/printer-*.cfg
-config/*.backup
-gcodes/
+**/config/printer-*.cfg
+**/config/*.backup
+**/gcodes/
